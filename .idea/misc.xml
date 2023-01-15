@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sonbe/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_filtering.xml" value="0.1" />
+        <entry key="..\:/Users/sonbe/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_graph.xml" value="0.25" />
+        <entry key="..\:/Users/sonbe/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_graph_actiivty.xml" value="0.3515625" />
+        <entry key="..\:/Users/sonbe/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_main.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/sonbe/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_main2.xml" value="0.1875" />
+        <entry key="..\:/Users/sonbe/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_motion_drift.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/sonbe/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_tilting.xml" value="0.33240740740740743" />
+        <entry key="..\:/Users/sonbe/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_visualization.xml" value="0.35555555555555557" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

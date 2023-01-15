@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FilteringActivity">
+
+    <TextView
+        android:id="@+id/btn_start"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:background="@color/purple_200"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="시작"
+        android:textSize="20sp"
+        android:layout_marginVertical="5dp"/>
+
+    <TextView
+        android:id="@+id/btn_end"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:background="@color/purple_200"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="종료"
+        android:textSize="20sp"
+        android:layout_marginVertical="5dp" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/Agraph"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="50dp"
+        android:layout_weight="1"
+
+        tools:ignore="MissingClass" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/Vgraph"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="50dp"
+        android:layout_weight="1"
+        tools:ignore="MissingClass" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/Pgraph"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="50dp"
+        android:layout_weight="1"
+        tools:ignore="MissingClass" />
+
+</LinearLayout>
